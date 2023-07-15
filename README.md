@@ -11,11 +11,10 @@ an Android Chat Bot Application, Users can engage in real-time conversations wit
 
 # Getting Started:
 
-Clone the repository to your local machine.
-Obtain an API key from OpenAI and add it to the project's configuration.
-Build and run the application on an Android emulator or a physical device.
-Feel free to explore the code and customize the chatbot application according to your requirements. Happy coding!
-
+- Clone the repository to your local machine.
+- Obtain an API key from OpenAI and add it to the project's configuration.
+- Build and run the application on an Android emulator or a physical device.
+- Feel free to explore the code and customize the chatbot application according to your requirements. Happy coding!
 
 
 
