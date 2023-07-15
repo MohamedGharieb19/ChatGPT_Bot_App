@@ -4,10 +4,10 @@ an Android Chat Bot Application, Users can engage in real-time conversations wit
 
 # Technologies:
 
-Kotlin: The application is developed using Kotlin, a modern and expressive programming language for Android development, known for its conciseness and safety features.
-OpenAI integration: The application leverages OpenAI API to generate intelligent responses based on user inputs.
-Retrofit: is used for network communication, enabling seamless integration with the OpenAI API and handling RESTful API requests and responses.
-MVVM architecture: The codebase follows the MVVM architectural pattern, which facilitates separation of concerns, improves code organization, and enables easier testing and maintenance.
+- Kotlin: The application is developed using Kotlin, a modern and expressive programming language for Android development, known for its conciseness and safety features.
+- OpenAI integration: The application leverages OpenAI API to generate intelligent responses based on user inputs.
+- Retrofit: is used for network communication, enabling seamless integration with the OpenAI API and handling RESTful API requests and responses.
+- MVVM architecture: The codebase follows the MVVM architectural pattern, which facilitates separation of concerns, improves code organization, and enables easier testing and maintenance.
 
 # Getting Started:
 
